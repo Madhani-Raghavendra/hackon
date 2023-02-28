@@ -1,0 +1,25 @@
+
+.navbar img{
+    width: 250px;
+}
+
+.nav-item :hover{
+    background-color: yellowgreen;
+}
+
+.carousel-item img{
+width: 100%;
+height: 50%;
+}
+
+.placement img{
+    filter: blur(2px);
+}
+
+.placement  :hover{
+    filter: none;
+}
+.placement img:hover{
+width: 100%;
+height: 100%;
+}
